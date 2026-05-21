@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Coat of Many Colors
+
+This log tracks the cryptographic history and versioning for the song **Coat of Many Colors** (coat-of-many-colors).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:00:47.993360 | `v1` | `1a346a33ccfbb7b2da8fbc0748839023464ec997d58db5261f9ebea61d5608de` | `3f46ccb63d6f82c98fecdaa9c1f1f23e1ea84e6c021ec1bd62e09807b1560c5c` | `2026-05-22_coat-of-many-colors-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
