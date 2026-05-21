@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/coat-of-many-colors/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Coat of Many Colors](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coat-of-many-colors/) |
+| **Get License** | [Get a Licensing Quote for Coat of Many Colors](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coat-of-many-colors/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1844)
 
 ---
 
